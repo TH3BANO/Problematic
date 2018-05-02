@@ -9,3 +9,6 @@ git clone https://github.com/mashklge/Problematic/edit/master +x ins;./ins
 » ثم آنتر سـوف يعمـل آلبوت بسـگرين تلقآئيآ ...
 
 💭┇ قناة السورس ☜
+
+
+git clone https://github.com/TH3BS/BOSS.git;cd BOSS;chmod +x ins;./ins
